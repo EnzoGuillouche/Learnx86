@@ -22,7 +22,7 @@ To code x86 programs, we will need the DOS emulator **DOSBox** and the Netwide A
 **On Windows**:
 1. Go to the official NASM website: https://www.nasm.us/pub/nasm/releasebuilds/2.16.03/win64/
 2. Download the Windows Installer (e.g., nasm-2.16.03-installer-x64.exe).
-3. Run the installer:
+3. Run the installer: Double-click the downloaded .exe file.
 4. Double-click to install NASM and follow the wizard.
 5. Add NASM to PATH (if not done automatically).
 
